@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="add_fab_desc">It shows add task screen.</string>
+    <string name="important_content_desc">It indicates task importance.</string>
+    <string name="load_error">Load error</string>
+    <string name="try_again">Try again</string>
+    <string name="no_items">No Items</string>
+    <string name="confirm_deletion">Confirm deletion</string>
+    <string name="delete_confirmation_question">Do you want to delete all completed tasks?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_date_created">Sort by date created</string>
+    <string name="hide_completed">Hide completed</string>
+    <string name="delete_all_completed">Delete all completed</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">UNDO</string>
+    <string name="edit_task">Edit task</string>
+    <string name="add_task">Add task</string>
+    <string name="enter_task">Enter task</string>
+    <string name="important_task">Important task</string>
+    <string name="save_content_desc">It saves data changes.</string>
+    <string name="created">Created: %1$s</string>
+    <string name="task_added">Task added</string>
+    <string name="task_edited">Task edited</string>
+    <string name="tasks">Tasks</string>
+</resources>
